@@ -1,9 +1,6 @@
+import Main from "./Main/Main";
 function App() {
-  return (
-    <>
-      <h1>Hello App</h1>
-    </>
-  );
+  return <Main />;
 }
 
 export default App;
